@@ -136,3 +136,5 @@ A webhook sends real-time detection information encoded in `multipart/form-data`
   }
 }
 ```
+
+![Webhook example](/files/sample-webook-response.png "Webhook example")
