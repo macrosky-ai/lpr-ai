@@ -100,7 +100,7 @@ Configurable options:
 - Codec
 - Data overlays
 
-## <video src="/files/sample.mp4" width="320" height="240" controls></video>
+[[Watch the video]](/files/sample.mp4)
 
 ## Webhook
 
