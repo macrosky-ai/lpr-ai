@@ -53,6 +53,8 @@ else:
 
 ### Downloading Result Files
 
+Files are generated in configured output directory.
+
 #### Configurable File Types:
 
 ##### **CSV Format**
@@ -88,17 +90,17 @@ Configurable options:
 
 [[Watch the video]](/files/sample.mp4)
 
-## Webhook
+### Webhook
 
 A webhook sends real-time detection information encoded in `multipart/form-data`.
 
-### Configuration Options:
+#### Configuration Options:
 
 - **Image:** Original image, car, license plate, or none.
 - **Video:** File, URL, or none (sent in a separate POST request).
 - **Header**
 
-### Example Webhook Payload:
+#### Example Webhook Payload:
 
 ```json
 {
